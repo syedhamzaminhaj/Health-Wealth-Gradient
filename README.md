@@ -50,5 +50,5 @@ Required R packages: tidyverse, fixest, modelsummary, scales, broom
 
 ## Author
 Syed Hamza Minhaj  
-MSc Health Economics — Università di Bologna  
+MSc Health Economics - Università di Bologna  
 linkedin.com/in/syedhamzaminhaj

@@ -11,9 +11,9 @@ gradient and test whether social infrastructure moderates it.
 Does loneliness weaken the protective effect of income against premature death?
 
 ## Key Findings
-- Income coefficient: −5,228 YPLL per log income unit (p<0.001) — robust across all 5 models
-- Loneliness coefficient: +22,097 YPLL (p<0.001) — comparable in magnitude to adult smoking
-- Interaction term β₃ = −20,766 (p=0.011) — income protects less in lonely counties
+- Income coefficient: −5,228 YPLL per log income unit (p<0.001) - robust across all 5 models
+- Loneliness coefficient: +22,097 YPLL (p<0.001) - comparable in magnitude to adult smoking
+- Interaction term β₃ = −20,766 (p=0.011) - income protects less in lonely counties
 - Model explains 67.6% of cross-county variation (Adj R² = 0.676)
 
 ## Data

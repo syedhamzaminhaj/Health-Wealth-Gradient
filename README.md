@@ -17,7 +17,7 @@ Does loneliness weaken the protective effect of income against premature death?
 - Model explains 67.6% of cross-county variation (Adj R² = 0.676)
 
 ## Data
-2025 County Health Rankings — University of Wisconsin / Robert Wood Johnson Foundation  
+2025 County Health Rankings - University of Wisconsin / Robert Wood Johnson Foundation  
 Download: https://www.countyhealthrankings.org
 
 Two files needed to replicate:
@@ -29,7 +29,7 @@ Two files needed to replicate:
 2. Place them in the same folder as Hamza_Analysis.R
 3. Open RStudio
 4. Session → Set Working Directory → To Source File Location
-5. Run the script — all figures saved automatically
+5. Run the script - all figures saved automatically
 
 Required R packages: tidyverse, fixest, modelsummary, scales, broom
 
